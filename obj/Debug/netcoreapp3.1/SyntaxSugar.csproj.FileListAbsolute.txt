@@ -1,0 +1,14 @@
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/bin/Debug/netcoreapp3.1/SyntaxSugar
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/bin/Debug/netcoreapp3.1/SyntaxSugar.deps.json
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/bin/Debug/netcoreapp3.1/SyntaxSugar.runtimeconfig.json
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/bin/Debug/netcoreapp3.1/SyntaxSugar.runtimeconfig.dev.json
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/bin/Debug/netcoreapp3.1/SyntaxSugar.dll
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/bin/Debug/netcoreapp3.1/SyntaxSugar.pdb
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.csproj.AssemblyReference.cache
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.AssemblyInfoInputs.cache
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.AssemblyInfo.cs
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.csproj.CoreCompileInputs.cache
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.dll
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.pdb
+/Users/lydiajagdeo/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.genruntimeconfig.cache
